@@ -4,7 +4,7 @@ scikit-image
 pillow
 tensorflow==1.9.0
 keras==2.2.0
-scipy==1.2.3
+scipy==1.10.0rc1
 pynput
 h5py
 pyautogui
